@@ -1,0 +1,40 @@
+[
+     
+      {
+        "username": "Youssef Shahin",
+        "email": "Youssefshahin@icloud.com",
+        "nationalty": "Canadian",
+        "rank": "1"
+      },
+      {
+        "username": "Anna Carlos",
+        "email": "Annacarols@icloud.com",
+        "nationalty": "Brazilian",
+        "rank": "2"
+      },
+      {
+        "username": "Mark Richalson",
+        "email": "Markrichalson@icloud.com",
+        "nationalty": "Finlandian",
+        "rank": "3"
+      },
+      {
+        "username": "Lionel Messi",
+        "email": "Lionelmessi@icloud.com",
+        "nationalty": "Argentinian",
+        "rank": "4"
+      },
+      {
+        "username": "Cristiano Ronaldo",
+        "email": "CristianoRonaldo@icloud.com",
+        "nationalty": "Portugalian",
+        "rank": "5"
+      },
+      {
+        "username": "Messut Ozil",
+        "email": "Messutozil@icloud.com",
+        "nationalty": "Turkish",
+        "rank": "6"
+      }
+    
+]
